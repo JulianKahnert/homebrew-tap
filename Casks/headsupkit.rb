@@ -1,6 +1,6 @@
 cask "headsupkit" do
-  version "0.3.2"
-  sha256 "1a22a2a8126178e9244d561d61134eb0866982af2949760ad2402b18ff695c46"
+  version "0.3.3"
+  sha256 "c28cbce1963590debdd8a39d08e7036cf45e171a16f0d2fd1859a7b5d3547a65"
 
   url "https://github.com/JulianKahnert/HeadsUpKit/releases/download/#{version}/HeadsUpKit-#{version}.zip"
   name "HeadsUpKit"
